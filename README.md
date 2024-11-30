@@ -16,6 +16,5 @@ ___
 ![SQLite](https://img.shields.io/badge/SQLite-000066?style=for-the-badge&logo=SQLite)
 ___
 ### Follow me:
-![Telegram](https://img.shields.io/badge/Telegram-330066?style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2FAlexeyVoron85)
-![VK](https://img.shields.io/badge/VK-330066?style=for-the-badge&logo=vk&link=https%3A%2F%2Fvk.com%2Fmashk_off)
+[![Telegram](https://img.shields.io/badge/Telegram-330066?style=for-the-badge&logo=Telegram)](https://t.me/AlexeyVoron85)
 [![VK](https://img.shields.io/badge/VK-330066?style=for-the-badge&logo=vk)](https://vk.com/mashk_off)
